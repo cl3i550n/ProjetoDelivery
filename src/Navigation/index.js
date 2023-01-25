@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useReducer, useMemo } from 'react';
-import { View, ActivityIndicator, StatusBar, StyleSheet, SafeAreaView } from 'react-native';
+import { View, ActivityIndicator, StatusBar, StyleSheet, SafeAreaView, Platform } from 'react-native';
 
 // Dependencias
 import {
