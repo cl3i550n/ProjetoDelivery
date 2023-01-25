@@ -110,7 +110,7 @@ export default props => {
           <View style={styles.menuItem}>
             <Icon name="share-outline" color="#007f5f" size={25} />
             <Text style={styles.menuItemText}>
-              Compartilhe o FoodFinder com amigos!
+              Compartilhe o DeliveryLanches!
             </Text>
           </View>
         </TouchableRipple>
